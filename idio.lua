@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/IdiotHub/Scripts/main/Loader"))()
+loadstring(game:HttpGet("https://rubuscriptblox.com/script/loader.php?script=idot"))()
